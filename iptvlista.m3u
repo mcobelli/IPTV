@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTM3U 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", LIVE 1 SPORT TV
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
 
@@ -9,17 +11,17 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/l
 #EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", Goltv
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/goltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 1 FHD
-http://tvmate.icu:8080/live/7686199/9576982/167742.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 1
+https://raw.githubusercontent.com/mcobelli/iptv/refs/heads/main/testecanais/sporttv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 2 HD
-http://tvmate.icu:8080/live/7686199/9576982/167743.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 2
+https://raw.githubusercontent.com/mcobelli/iptv/refs/heads/main/testecanais/sporttv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 3 HD
-http://tvmate.icu:8080/live/7686199/9576982/167744.m3u8
+https://raw.githubusercontent.com/mcobelli/iptv/refs/heads/main/testecanais/sporttv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 4 FHD
-http://tvmate.icu:8080/live/7686199/9576982/167745.m3u8
+https://raw.githubusercontent.com/mcobelli/iptv/refs/heads/main/testecanais/sporttv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", Eleven Sports 1 FHD 
 http://tvmate.icu:8080/live/7686199/9576982/35264.m3u8
@@ -42,7 +44,7 @@ https://cloudserve.world/live/stream_nfl1.m3u8
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
-http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49.m3u8
+https://raw.githubusercontent.com/mcobelli/iptv/refs/heads/main/testecanais/rbstv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo SP" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
 https://abc.embedmax.site/globoSP/video.m3u8
